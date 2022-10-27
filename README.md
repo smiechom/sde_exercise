@@ -37,7 +37,7 @@ CouponFollow is a coupons and deals business which is primarily driven by anonym
 
 Imagine you are working with a product manager to redesign our data warehouse, and as a proof of concept you are given a set of raw data files (attached with this exercise), and you’d like to create a data warehouse with the following schema:
 
-
+![alt text](https://github.com/smiechom/sde_exercise/blob/main/db_schema.jpg?raw=true)
 
 Using the files and schema provided, please build out your prototype data warehouse.
 
